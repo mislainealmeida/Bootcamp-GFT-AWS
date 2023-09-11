@@ -1,6 +1,5 @@
 # Bootcamp: Desenvolvimento Java com Cloud AWS. 
-
-## Básico: 
+ 
 ### Desafio 1: 
 Você está trabalhando para uma empresa que utiliza extensivamente os serviços da AWS, e após algumas análises a equipe de segurança identificou que algumas senhas dos usuários no IAM são fracas e podem representar um risco à segurança dos dados da empresa. Para resolver esse problema, foi solicitado que você desenvolva um programa capaz de analisar as senhas dos usuários e fornecer uma validação de força com base em critérios predefinidos.
 
